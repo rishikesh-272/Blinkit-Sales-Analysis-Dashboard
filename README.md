@@ -7,7 +7,8 @@ The goal was to uncover key insights and opportunities for optimization across d
 ---
 
 ## 🎯 Business Requirements
-The analysis focuses on the following KPIs and breakdowns:
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+
 
 ### Key KPIs
 - **Total Sales** → Overall revenue generated  
@@ -29,14 +30,6 @@ The analysis focuses on the following KPIs and breakdowns:
 ## 🛠 Tools & Technologies
 - **Power BI** → Dashboard creation & visualization  
 - **MS Excel / CSV** → Dataset preprocessing  
-- **Presentation (PPTX)** → Business storytelling  
-
----
-
-## 📈 Dashboard Preview
-![Blinkit Dashboard Screenshot](./Screenshot.png)
-
-> For a detailed walkthrough, check the **[`Blinkit Analysis.pptx`](./Blinkit%20Analysis.pptx)** presentation.
 
 ---
 
@@ -48,4 +41,4 @@ The analysis focuses on the following KPIs and breakdowns:
 
 ---
 
-## 📂 Repository Structure
+## 
