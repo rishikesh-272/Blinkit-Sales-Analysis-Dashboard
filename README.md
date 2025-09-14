@@ -41,4 +41,11 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ---
 
-## 
+## 🙋‍♂️ Author
+- Rishikesh Mohite
+- 📧 [Email](rishikeshmohite82@gmail.com)
+- 🔗 [LinkedIn](www.linkedin.com/in/rishikeshmohite)
+
+---
+
+⭐ If you enjoy this project, please give it a star!
